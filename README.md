@@ -1,3 +1,5 @@
+# This project is no longer maintained
+
 The pcgs gem is for programmatically accessing coin dates, prices, etc. from http://pcgs.com/prices
 
 # Example usage:  
